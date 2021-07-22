@@ -1,0 +1,11 @@
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/services/interfaces/AbstractDynamoRepository.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/di/modules/SampleModule.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/handlers/JoskeEventHandler.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/handlers/EventHandler.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/di/components/SampleComponent.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/models/Event.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/models/EventRequest.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/services/impl/TestSampleService.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/services/impl/SampleService.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/services/interfaces/ISampleService.java
+/Users/oleksiidzhus/edu-workspace/sample-project-with-labdas/src/main/java/com/joske/event_driven/services/SamplesDynamoRepository.java

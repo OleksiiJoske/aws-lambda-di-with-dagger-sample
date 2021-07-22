@@ -1,0 +1,9 @@
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Timeout: 300
+      MemorySize: 128
+      Handler: com.joske.event_driven.handlers.EventHandler
+      CodeUri: /Users/oleksiidzhus/edu-workspace/sample-project-with-labdas
+      Runtime: java11

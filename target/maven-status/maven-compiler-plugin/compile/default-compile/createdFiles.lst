@@ -1,0 +1,17 @@
+com/joske/event_driven/services/SamplesDynamoRepository.class
+com/joske/event_driven/models/Event.class
+com/joske/event_driven/di/components/DaggerSampleComponent.class
+com/joske/event_driven/di/modules/SampleModule.class
+com/joske/event_driven/di/modules/SampleModule_SamplesDynamoRepositoryFactory.class
+com/joske/event_driven/di/modules/SampleModule_SampleServiceFactory.class
+com/joske/event_driven/services/interfaces/ISampleService.class
+com/joske/event_driven/services/impl/TestSampleService.class
+com/joske/event_driven/services/impl/SampleService.class
+com/joske/event_driven/di/components/DaggerSampleComponent$Builder.class
+com/joske/event_driven/models/EventRequest.class
+com/joske/event_driven/handlers/JoskeEventHandler.class
+com/joske/event_driven/handlers/EventHandler.class
+com/joske/event_driven/di/components/SampleComponent.class
+com/joske/event_driven/services/interfaces/AbstractDynamoRepository.class
+com/joske/event_driven/di/modules/SampleModule$1.class
+com/joske/event_driven/di/modules/SampleModule$Scope.class
